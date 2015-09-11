@@ -1,6 +1,6 @@
 # ellis
 
-Rails app to keep a catalog of anything. Except ...
+Rails app to keep a catalog of anything
 
 ## Requirements
 
